@@ -1,0 +1,111 @@
+body {background-image: url(https://www.figma.com/file/oLjaWLh22omPr6t5kvSpRv/image/ecd7a0779ec5264673ce4928d2d31b82aa9dfeff?fuid=1423406382028550414);
+    width: 1512px;
+    height: 982px;
+    margin 0 auto;
+    
+    .container {
+    width: 700px;
+    height: 3500px;
+    flex-shrink: 0;
+    background: #F96E0A;
+    margin:
+    0 auto}
+      
+    img {
+    width: 700px;
+    height: 497px;
+    flex-shrink: 0;
+    margin: 0 auto;
+    margin-right: 2px;}
+    
+      h1 {
+    color: #1B1616;
+    font-family: Koulen;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+     text-align: center;
+     margin-bottom: -20px}
+      
+      P {
+    color: #FFF;
+    font-family: "Noto Serif Gujarati";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;}
+      
+      h2 {
+    color: #000;
+    font-family: "Noto Serif Gujarati";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-right:10px; 
+    margin-bottom: 50px;
+    margin-left: 30px;
+    }
+      
+      h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFF;
+    font-family: "Noto Serif Gujarati";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: #181515;
+    width: 700px;
+    height: 83px;
+    flex-shrink: 0;
+    margin: 0 auto;
+    }
+      
+      h4 {color: #000;
+    font-family: "Noto Serif Gujarati";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    align-text: center;}
+      
+      li {color: #000;
+    font-family: "Noto Serif Gujarati";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 605px;
+    margin-left: 25px}
+      
+      h5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;}
+    
+    .italic-text {
+    font-style: italic;
+    }
+      
+      h6 {color: #000;
+    font-family: "Noto Serif Gujarati";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 40px;}
+    
+      a {color: white;}
+    
